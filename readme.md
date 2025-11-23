@@ -2,8 +2,6 @@
 
 ![Ollama Multimodal Chat GUI screenshot](assets/image.png)
 
-Screenshot: Main window of the Ollama Multimodal Chat GUI.
-
 A local, multi-tabbed, multimodal chatbot frontend for Ollama, built with Python and Tkinter.
 
 This application provides a clean, modern desktop interface to interact with your local Ollama models. It's designed to handle multiple chat sessions at once in a tabbed interface, and it fully supports multimodal (VLM) models by allowing you to attach images, PDFs, and text files to your prompts.
